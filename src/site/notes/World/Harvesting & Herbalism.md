@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/harvesting-and-herbalism/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/world/harvesting-and-herbalism/","noteIcon":"2"}
 ---
 
 
@@ -89,7 +89,8 @@ Determine what circumstances apply and inform the player. A character might have
 >> - [ ] Spending a short amount of time  
 >> - [ ] Poor perception such as darkness without aid to see or bad weather 
 >> - [ ] Plants are scarce in the area or people often harvest in the area 
->> - [ ] Looking for specific plants where the vegetation is thick{ #tableplantscircumstances}
+>> - [ ] Looking for specific plants where the vegetation is thick
+{ #tableplantscircumstances}
 
 
 Once modifiers are set and the new DC for each tier of plant is determined, the player roll Herbalism Kit (Wisdom), Survival (Wisdom) or Nature (Wisdom) and refer to to the Locate Plants table below. 
