@@ -3,6 +3,8 @@
 ---
 
 
+#underconstruction 
+
 # Camera
 
 A [[Objects/Camera\|camera]] functions much like a tool kit but have a specific ruleset as described. 
