@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons-with-dvide/","hide":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons-with-dvide/","hide":true,"tags":["gardenEntry"],"noteIcon":"2"}
 ---
 
 
