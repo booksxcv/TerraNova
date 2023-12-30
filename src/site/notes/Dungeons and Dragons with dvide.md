@@ -19,8 +19,27 @@
 
 { .block-language-dataview}
 
-# Homebrew changes
 
+# Homebrew rules
 
+- [[World/Homebrew Rules\|Homebrew Rules]]
 
 # Weapons, Equipment and Items
+
+- [[Objects/Camera\|Camera]]
+
+Game Tools
+
+- [[z_references/Adventuring Gear#^containercapacity\|Container Capacity]]
+- [[z_references/Armor#^tablearmorequip\|Don & Doff Armor]]
+- [[z_references/Gameplay/Adventuring#Jumping\|Jumping]]
+- [[z_references/Gameplay/Adventuring#Vision and Light\|Vision and Light]]
+- [[z_references/Gameplay/Combat#^tablesize\|Size Categories]]
+
+
+THIS IS TEXT THAT IS VISIBLE
+
+REDACTED
+this is hidden text
+REDACTED
+
