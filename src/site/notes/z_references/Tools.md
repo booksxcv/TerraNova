@@ -16,8 +16,10 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 | ~ Calligrapher's supplies | ~~10 gp~~ | 10 sp     | 5 lb.  |
 | ~ Carpenter's tools       | ~~8 gp~~  | 8 sp      | 6 lb.  |
 | ~ Cartographer's tools    | ~~15 gp~~ | 8 sp      | 6 lb.  |
+| ~ Clockwork Tools (dHB)   | -         | 25 sp     | 6 lb.  |
 | ~ Cobbler's tools         | ~~5 gp~~  | 5 sp      | 5 lb.  |
 | ~ Cook's utensils         | ~~1 gp~~  | 1 sp      | 8 lb.  |
+| ~ Gunsmith's Kit (dHB)    | -         | 25 sp     | 6 lb.  |
 | ~ Glassblower's tools     | ~~30 gp~~ | 20 sp     | 5 lb.  |
 | ~ Jeweler's tools         | ~~25 gp~~ | 25 sp     | 2 lb.  |
 | ~ Leatherworker's tools   | ~~5 gp~~  | 5 sp      | 5 lb.  |
@@ -25,6 +27,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 | ~ Painter's supplies      | ~~10 gp~~ | 10 sp     | 5 lb.  |
 | ~ Potter's tools          | ~~10 gp~~ | 10 sp     | 3 lb.  |
 | ~ Smith's tools           | ~~20 gp~~ | 20 sp     | 8 lb.  |
+| ~ Tattoo Kit (dHB)        | -         | 20 sp     | 5 lb.  | 
 | ~ Tinker's tools          | ~~50 gp~~ | 50 sp     | 10 lb. |
 | ~ Weaver's tools          | ~~1 gp~~  | 1 sp      | 5 lb.  |
 | ~ Woodcarver's tools      | ~~1 gp~~  | 1 sp      | 5 lb.  |
@@ -45,6 +48,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 | ~ Pan flute               | ~~12 gp~~ | 12 sp     | 2 lb.  |
 | ~ Shawm                   | ~~2 gp~~  | 2 sp      | 1 lb.  |
 | ~ Viol                    | ~~30 gp~~ | 30 sp     | 1 lb.  |
+| Camera                    | -         | Varies    | Varies |
 | Navigator's tools         | ~~25 gp~~ | 25 sp     | 2 lb.  |
 | Poisoner's kit            | ~~50 gp~~ | 50 sp     | 2 lb.  |
 | Thieves' tools            | ~~25 gp~~ | 25 sp     | 1 lb.  |
