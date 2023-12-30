@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/substances/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/world/substances/","noteIcon":"2"}
 ---
 
 
