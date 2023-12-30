@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/crafting-and-construction/"}
+{"dg-publish":true,"permalink":"/world/crafting-and-construction/","noteIcon":"2"}
 ---
 
 
