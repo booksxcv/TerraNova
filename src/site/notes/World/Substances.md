@@ -36,7 +36,7 @@ Substances are product of herbalism which are separate from the traditional poti
 { #537286}
 
 
-**Oil.** An oil can be consumed plainly, can be mixed with drink or food or inhaled to grant effects. It can also be burned using incense sticks. Oil is easy to craft and do not require any rolls. 
+**Oil.** An oil can be consumed plainly, can be mixed with consumed or burned (thus inhaled) using incense sticks. Oil is easy to craft and do not require any rolls. 
 { #8158d2}
 
 
@@ -54,12 +54,12 @@ Substances are product of herbalism which are separate from the traditional poti
 
 **Table- Substances**
 
-|          | Inhaled/Snorted | Smoke   | Open Wound | Consumed (plain or with drink or food) | Skin Contact |
+|          | Snorted | Smoke   | Open Wound | Consumed (plain or with drink or food) | Skin Contact |
 |:-------- |:--------------- |:------- |:---------- |:-------------------------------------- |:------------ |
 | Brew     |                 |         |            | Yes                                    |              |
-| Natural  |                 | Burnt   |            | Yes                                    |              |
-| Oil      |                 | Incense | Yes        | Yes                                    |              |
-| Powder   | Mouth or Nose   | Burnt   | Yes        | Yes                                    |              |
+| Natural  |                 | Incense or Direct   |            | Yes                                    |              |
+| Oil      |                 | Incense or Direct| Yes        | Yes                                    |              |
+| Powder   | Mouth or Nose   | Direct   | Yes        | Yes                                    |              |
 | Salve    |                 |         |            |                                        | Yes          |
 | Tincture |                 |         | Yes        | Yes                                    |              |{ #tablesubstancestype}
 
