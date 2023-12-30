@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons-with-dvide/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons-with-dvide/","hide":true,"tags":["gardenEntry"]}
 ---
 
 
@@ -35,7 +35,6 @@
 - [[World/Silver Standard\|Silver Standard]]
 - [[World/Substances\|Substances]]
 - [[World/Tools Expanded\|Tools Expanded]]
-- [[Dungeons and Dragons with dvide 2\|Dungeons and Dragons with dvide 2]]
 
 { .block-language-dataview}
 
