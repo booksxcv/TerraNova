@@ -59,6 +59,6 @@ Additionally, any homebrew permanent changes to the rules are detailed in [[Worl
 
 THIS IS TEXT THAT IS VISIBLE
 
-((H))s
+:::hidden
 this is hidden text
-((H))
+:::
