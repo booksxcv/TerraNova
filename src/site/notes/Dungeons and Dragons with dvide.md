@@ -15,6 +15,7 @@
 # Info & Lore
 
 **Notes**
+- [[World/Better Shields\|Better Shields]]: First draft of some minor additions to improve the shields without complexity.
 - [[World/Crafting & Construction\|Crafting & Construction]]: The purpose of this is to create a streamlined crafting process mainly related to larger-scale projects - related to ship, construction of wood and if possibly applicable to crafting anything on a large scale.
 - [[World/Discovery Progress\|Discovery Progress]]: A very simple and linear way to add discovery, invention and understanding of concepts within magic and/or technology.
 - [[World/Firearms\|Firearms]]: Standardized firearm rules, including crafting firearms and ammunition, statistics, repair and more.
@@ -27,6 +28,7 @@
 
 **All appearing notes**
 - [[Dungeons and Dragons with dvide\|Dungeons and Dragons with dvide]]
+- [[World/Better Shields\|Better Shields]]
 - [[World/Crafting & Construction\|Crafting & Construction]]
 - [[World/Discovery Progress\|Discovery Progress]]
 - [[World/Firearms\|Firearms]]
