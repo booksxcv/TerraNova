@@ -36,24 +36,24 @@ Additionally, any homebrew permanent changes to the rules are detailed in [[Worl
 
 # Prices and Stats - Weapons, Equipment and More
 
-- [[Objects/Camera\|Camera]]
 - [[z_references/Adventuring Gear#^tableadventuringgear\|Adventuring Gear]]
+- [[World/Materials#^tablearcanematerials\|Arcane Materials]]
 - [[z_references/Armor#^tablearmor\|Armor]]
+- [[World/Better Shields#^tablebettershields\|Better Shields]]
+- [[Objects/Camera\|Camera]]
+- [[World/Firearms#^tablefirearms\|Firearms]]
 - [[z_references/Expenses#^tablelifestyle\|Lifestyle Expenses]]
 - [[z_references/Tools#^tabletools\|Tools]]
-- [[z_references/Weapons#^tableweapons\|Weapons]]
 - [[z_references/Trade Goods#^tabletradegoods\|Trade Goods]]
-- [[World/Materials#^tablearcanematerials\|Arcane Materials]]
-- [[World/Better Shields#^tablebettershields\|Better Shields]]
-- [[World/Firearms#^tablefirearms\|Firearms]]
+- [[z_references/Weapons#^tableweapons\|Weapons]]
 
 # Game Tools
 
 - [[z_references/Adventuring Gear#^containercapacity\|Container Capacity]]
 - [[z_references/Armor#^tablearmorequip\|Don & Doff Armor]]
 - [[z_references/Gameplay/Adventuring#Jumping\|Jumping]]
-- [[z_references/Gameplay/Adventuring#Vision and Light\|Vision and Light]]
 - [[z_references/Gameplay/Combat#^tablesize\|Size Categories]]
+- [[z_references/Gameplay/Adventuring#Vision and Light\|Vision and Light]]
 
 
 
