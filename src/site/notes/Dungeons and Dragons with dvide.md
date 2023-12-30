@@ -3,9 +3,14 @@
 ---
 
 
-# Session Notes 
+# Objectives
 
+- [ ] This is a sample checkbox that is unchecked
+- [x] This is a sample checkbox that is checked
+- [G] This is a test for check without strikesthrough
+- [!] This is a test for CSS checkboxes
 
+# Session Notes
 
 # Info & Lore
 
