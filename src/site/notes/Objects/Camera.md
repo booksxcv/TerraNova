@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/objects/camera/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/objects/camera/","hide":true,"noteIcon":"2"}
 ---
 
 
