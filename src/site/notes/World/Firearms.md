@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/firearms/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/world/firearms/","noteIcon":"2"}
 ---
 
 
