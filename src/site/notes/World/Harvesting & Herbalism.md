@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/harvesting-and-herbalism/"}
+{"dg-publish":true,"permalink":"/world/harvesting-and-herbalism/","noteIcon":"2"}
 ---
 
 
