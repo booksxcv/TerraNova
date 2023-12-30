@@ -27,6 +27,15 @@
 # Weapons, Equipment and Items
 
 - [[Objects/Camera\|Camera]]
+- [[z_references/Adventuring Gear#^tableadventuringgear\|Adventuring Gear]]
+- [[z_references/Armor#^tablearmor\|Armor]]
+- [[z_references/Expenses#^tablelifestyle\|Lifestyle Expenses]]
+- [[z_references/Tools#^tabletools\|Tools]]
+- [[z_references/Weapons#^tableweapons\|Weapons]]
+- [[z_references/Trade Goods#^tabletradegoods\|Trade Goods]]
+- [[World/Materials#^tablearcanematerials\|Arcane Materials]]
+- [[World/Better Shields#^tablebettershields\|Better Shields]]
+- [[World/Firearms#^tablefirearms\|Firearms]]
 
 Game Tools
 
@@ -35,6 +44,7 @@ Game Tools
 - [[z_references/Gameplay/Adventuring#Jumping\|Jumping]]
 - [[z_references/Gameplay/Adventuring#Vision and Light\|Vision and Light]]
 - [[z_references/Gameplay/Combat#^tablesize\|Size Categories]]
+
 
 
 THIS IS TEXT THAT IS VISIBLE
