@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/silver-standard/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/world/silver-standard/","noteIcon":"2"}
 ---
 
 
