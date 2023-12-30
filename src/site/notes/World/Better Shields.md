@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/better-shields/","noteIcon":false}
+{"dg-publish":true,"permalink":"/world/better-shields/","noteIcon":"3"}
 ---
 
 
