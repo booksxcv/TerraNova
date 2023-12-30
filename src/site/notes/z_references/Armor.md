@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-references/armor/","hide":true,"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/z-references/armor/","noteIcon":"2"}
 ---
 
 
