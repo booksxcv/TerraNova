@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/homebrew-rules/"}
+{"dg-publish":true,"permalink":"/world/homebrew-rules/","noteIcon":"2"}
 ---
 
 
