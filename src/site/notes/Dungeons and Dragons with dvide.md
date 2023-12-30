@@ -81,6 +81,6 @@ $<div class="markdown-embed-title">
 
 THIS IS TEXT THAT IS VISIBLE
 
-((H)) 
+((H))
 this is hidden text
 ((H))
