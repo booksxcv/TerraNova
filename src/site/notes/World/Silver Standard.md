@@ -14,11 +14,14 @@ The exchange from gold standard to silver standard have 3 purposes. ^[This homeb
 2. Solving issues of carrying thousands of coins and instead increase the worth of these fewer coins. 
 3. More true to recorded history, where the silver coin was the standard as gold was far to valuable to be used in coinage.
 
-==As the change happens, we start by converting all silver coins to copper at the previous exchange rate (x10). Following that, we simply exchange all mentions of GP (gold coins) to SP (silver coins) and convert all prices in silver to 10x in copper.==
+> [!important|c-yellow] How to convert
+> As the change happens, we start by converting all silver coins to copper at the previous exchange rate (x10). Following that, we simply exchange all mentions of GP (gold coins) to SP (silver coins) and convert all prices in silver to 10x in copper.
 
+((H))
 ## Prices (SS)
 
 <iframe src="https://docs.google.com/spreadsheets/d/1lQe3fhLuW9zJ36RWSofH03-j0Igc50hUhX6teRnwUsI/edit#gid=1355379407" allow="fullscreen" allowfullscreen="" style="height:100%; width:100%; padding-left:3%; padding-right:3%; aspect-ratio: 16 / 9;"></iframe>
+((H))
 
 ## New Exchange Rate
 *With a factor of x100*
