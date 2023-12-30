@@ -12,6 +12,7 @@
 
 # Session Notes
 
+- [[Story/Session Notes/Session 1\|Session 1]]
 
 { .block-language-dataview}
 
