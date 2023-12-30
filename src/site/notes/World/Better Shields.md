@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/world/better-shields/"}
+{"dg-publish":true,"permalink":"/world/better-shields/","noteIcon":"2"}
 ---
 
 
-# Better Shields
-
-***Table- Better Shields 0.9***
+**Table- Better Shields 0.9**
 
 | Name              | Cost (SS) | AC Bonus | Strength Req | Weight | Properties                                      | Examples                                                |
 | ----------------- | --------- | -------- | ------------ | ------ | ----------------------------------------------- | ------------------------------------------------------- |
@@ -25,6 +23,19 @@
 
 **Shield Cover.** As an object interaction, a creature who wields this shield can deploy it, thrusting a spike at the bottom into the ground, thereby providing half cover for themselves and a creature of their size or smaller who occupy the space behind them. A creature proficient with shields must still hold the shield to gain its benefits and the shield can not be moved until pulled out by taking an object interaction.
 
-**Thrown.** See [[z_references/Weapons#^5c1004\|Thrown Property]].
-
 **Weapon.** The object can be used as a melee weapon.
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Thrown Property
+
+</div>
+
+
+**Thrown**. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. 
+
+</div></div>
+
