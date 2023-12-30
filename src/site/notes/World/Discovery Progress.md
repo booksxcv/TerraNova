@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/discovery-progress/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/world/discovery-progress/","noteIcon":"2"}
 ---
 
 
