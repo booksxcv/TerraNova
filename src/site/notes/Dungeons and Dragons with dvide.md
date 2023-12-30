@@ -7,8 +7,9 @@
 
 - [ ] What is the meaning of the sphere that [[Characters/Gribble\|Gribble]] had trapped in a mysterious oyster?
 - [ ] What does *[[Characters/Perrigo\|Perrigo]]'s promise* mean?
-- [x] Find out what happened to a group of researcher's and explorer's that has gone missing on an island, just off the coast of Rat's Haven. The request comes from Lord Captain Vyan Ivenrook, the Mate of Glory. In payment, he promises a small modified ship with only one sail. (completed - xx.08:3855)
-- [x] Form an awesome Adventuring Party (completed - xx.08:3855)
+- [x] Find out what happened to a group of researcher's and explorer's that has gone missing on an island, just off the coast of Rat's Haven. The request comes from Lord Captain Vyan Ivenrook, the Mate of Glory. In payment, he promises a small modified ship with only one sail. *(completed - 15.08:3855)*
+- [x] Form an awesome adventuring party *(completed - 04.08:3855)*
+	- [ ] Choose a name for your adventuring party
 
 # Session Notes
 
