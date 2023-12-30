@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/world/discovery-progress/","noteIcon":null}
+{"dg-publish":true,"permalink":"/world/discovery-progress/","noteIcon":"3"}
 ---
 
 
-# Discovery Progress summary
+# Summary
 
 This system is a simplification of the time it takes to understand or invent something. This system deals only with the theory and to pursue practical invention, see the [[World/Crafting & Construction\|Crafting & Construction]]. 
 
